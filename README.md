@@ -1,7 +1,7 @@
 ## Rating Product Sorting Reviews Amazon
  An analysis of Amazon's product ratings and review sorting, addressing challenges in accurate rating calculation and review ranking for enhanced e-commerce experiences.
 
-![image](https://images.moneycontrol.com/static-mcnews/2023/03/amazon-shut-down-featured--580x435.png)
+![image](https://cdn.wamda.com/thumbnails/d14f45ba62df847.png)
 
 
  **************************
