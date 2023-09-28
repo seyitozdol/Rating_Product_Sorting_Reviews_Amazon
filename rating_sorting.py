@@ -1,10 +1,9 @@
-# **************************
-# Business Problem:
+# ****** Business Problem: *******************************************
 # One of the most critical issues in e-commerce is the accurate calculation of post-sale ratings given to products.
 # The solution to this problem means more customer satisfaction for the e-commerce site, prominence of the product for the sellers, and a hassle-free shopping experience for the buyers.
 # Another significant problem is the proper ranking of reviews given to products. Highlighting misleading reviews will directly affect the sale of the product, leading to both financial losses and customer loss.
 # By solving these two primary problems, the e-commerce site and sellers will increase their sales, while customers will complete their purchasing journey seamlessly.
-# **************************
+# ********************************************************************
 
 # **************************
 # Dataset Story:
