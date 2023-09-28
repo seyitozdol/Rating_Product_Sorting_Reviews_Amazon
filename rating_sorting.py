@@ -1,18 +1,25 @@
-# ############ Business Problem: ##################################################################################
+# #################################################################################################################
+# #                                             Business Problem                                                  #
+# #################################################################################################################
+
 # One of the most critical issues in e-commerce is the accurate calculation of post-sale ratings given to products.
 # The solution to this problem means more customer satisfaction for the e-commerce site, prominence of the product for the sellers, and a hassle-free shopping experience for the buyers.
 # Another significant problem is the proper ranking of reviews given to products. Highlighting misleading reviews will directly affect the sale of the product, leading to both financial losses and customer loss.
 # By solving these two primary problems, the e-commerce site and sellers will increase their sales, while customers will complete their purchasing journey seamlessly.
-# #################################################################################################################
 
-# **************************
-# Dataset Story:
+
+# #################################################################################################################
+# #                                             Dataset Story                                                     #
+# #################################################################################################################
+#
 # This dataset containing Amazon product data encompasses various product categories along with multiple metadata.
 # The electronic category's product with the most reviews has user scores and comments.
 # **************************
 
-# **************************
-# VARIABLES
+# #################################################################################################################
+# #                                              VARIABLES                                                        #
+# #################################################################################################################
+
 # reviewerID:               User ID
 # asin:                     Product ID
 # reviewerName:             Username
@@ -25,7 +32,7 @@
 # day_diff:                 Number of days since the review
 # helpful_yes:              Number of times the review was found helpful
 # total_vote:               Number of votes given to the review
-# **************************
+
 
 # **************************
 # Project Tasks
