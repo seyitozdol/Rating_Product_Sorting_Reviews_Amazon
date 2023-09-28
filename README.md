@@ -18,22 +18,20 @@ One of the most critical issues in e-commerce is the accurate calculation of pos
 ## VARIABLES
 
 
-| ****Variable Name****                        | Description                                    |
-| ------------------------------------ |------------------------------------------------|
-                                     |
-|
-| reviewerID          | User ID                                            |
-| asin                | Product ID                                         |
-| reviewerName        | Username                                           |
-| helpful             | Degree of helpfulness rating                       |
-| reviewText          | Review                                             |
-| overall             | Product rating                                     |
-| summary             | Review summary                                     |
-| unixReviewTime      | Review time                                        |
-| reviewTime          | Raw review time                                    |
-| day_diff            | Number of days since the review                    |
-| helpful_yes         | Number of times the review was found helpful       |
-| total_vote          | Number of votes given to the review                |
+| **Variable Name**   |**Description**                              |
+| ------------------- |---------------------------------------------|
+| reviewerID          | User ID                                     |
+| asin                | Product ID                                  |
+| reviewerName        | Username                                    |
+| helpful             | Degree of helpfulness rating                |
+| reviewText          | Review                                      |
+| overall             | Product rating                              |
+| summary             | Review summary                              |
+| unixReviewTime      | Review time                                 |
+| reviewTime          | Raw review time                             |
+| day_diff            | Number of days since the review             |
+| helpful_yes         | Number of times the review was found helpful |
+| total_vote          | Number of votes given to the review         |
 
 
 ## Project Tasks
